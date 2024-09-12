@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝗢𝗹𝗮́, 𝗰𝗮𝗿𝗼𝘀 <desenvolvedores/>! <img src="https://github.com/LeonardoPMF/LeonardoPMF/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝗢𝗹𝗮́, 𝗰𝗮𝗿𝗼𝘀 < desenvolvedores />! <img src="https://github.com/LeonardoPMF/LeonardoPMF/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -17,7 +17,7 @@
 
 ---
 
-<i>social Media</i><br>
+<i>Social Media</i><br>
 
 
   <a target="_blank" href="https://www.linkedin.com/in/LeonardoPoschardt/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
