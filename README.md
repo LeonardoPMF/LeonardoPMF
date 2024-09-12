@@ -28,9 +28,3 @@
 <a href="https://www.instagram.com/Leopmf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
-
-
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
