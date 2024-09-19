@@ -2,10 +2,10 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 👀 **Interesses:** Sou programador na área de Desenvolvimento de Sistemas, apaixonado por aprender e criar soluções eficazes e inovadoras!
-- 💡 **Atualmente estou aprendendo:** Java, Angular e C#
-- 🤝🏻 **Estou procurando colaborar em:** Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
-- 💬 **Como me encontrar:** Você pode me contatar por e-mail em [leopmfaria@gmail.com](mailto:leopmfaria@gmail.com).
+- 👀 **Interesses:** Sou programador na área de Desenvolvimento de Sistemas, apaixonado por aprender e criar soluções eficazes e inovadoras! <br>
+- 💡 **Atualmente estou aprendendo:** Java, Angular e C# <br>
+- 🤝🏻 **Estou procurando colaborar em:** Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar! <br>
+- 💬 **Como me encontrar:** Você pode me contatar por e-mail em [leopmfaria@gmail.com](mailto:leopmfaria@gmail.com). <br>
 <br>
 
 
