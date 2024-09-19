@@ -19,11 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,dotnet,java,angular)](https://skillicons.dev)<br><br>
 
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 <i>Social Media</i><br>
 
   <a target="_blank" href="[https://www.linkedin.com/in/leonardo-poschardt-049b7128b/]">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
@@ -31,5 +26,12 @@
 
 <a target="_blank" href="https://www.instagram.com/leopmf/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
 <a href="https://www.instagram.com/Leopmf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
+
+
+<div>
+
+![Jokes Card](https://readme-jokes.vercel.app/api/theme/radical)
 
 </div>
