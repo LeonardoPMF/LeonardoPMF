@@ -32,6 +32,6 @@
 
 <div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api/theme/radical)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
