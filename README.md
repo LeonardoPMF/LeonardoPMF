@@ -14,15 +14,6 @@
 <br><br>
 ## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=angular,cs,css,dotnet,java,html)](https://skillicons.dev)<br><br>
-## 📫 Contato
-
-  
-[![Linkedin: Leonardo](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:[(https://www.linkedin.com/in/leonardo-poschardt-049b7128b/))]((https://www.linkedin.com/in/leonardo-poschardt-049b7128b/))
-
-<!---
-MatheusGomes444/MatheusGomes444 é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link de visualização para ver as suas mudanças.
---->
 
 <i>Piada aleatória de desenvolvedores!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
@@ -31,7 +22,7 @@ Você pode clicar no link de visualização para ver as suas mudanças.
 
 <i>Social Media</i><br>
 
-  <a target="_blank" href="https://www.linkedin.com/in/LeonardoPoschardt/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="[https://www.linkedin.com/in/leonardo-poschardt-049b7128b/]">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 <a href="[https://www.linkedin.com/in/LeonardoPoschardt](https://www.linkedin.com/in/leonardo-poschardt-049b7128b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <a target="_blank" href="https://www.instagram.com/leopmf/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
