@@ -21,7 +21,7 @@
 
 <i>Social Media</i><br>
 
-  <a target="_blank" href="[https://www.linkedin.com/in/leonardo-poschardt-049b7128b/]">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/leonardo-poschardt-049b7128b/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 <a href="[https://www.linkedin.com/in/LeonardoPoschardt](https://www.linkedin.com/in/leonardo-poschardt-049b7128b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <a target="_blank" href="https://www.instagram.com/leopmf/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
