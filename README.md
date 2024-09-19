@@ -2,7 +2,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 👀 **Interesses:** Sou programador na área de dDesenvolvimento de sistemas, apaixonado por criar soluções eficazes e inovadoras!
+- 👀 **Interesses:** Sou programador na área de Desenvolvimento de Sistemas, apaixonado por aprender e criar soluções eficazes e inovadoras!
 - 🌱 **Atualmente estou aprendendo:** Java, Angular e C#
 - 💞️ **Estou procurando colaborar em:** Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
 - 📫 **Como me encontrar:** Você pode me contatar por e-mail em [leopmfaria@gmail.com](mailto:leopmfaria@gmail.com).
@@ -13,12 +13,11 @@
 
 <br><br>
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,cs,css,dotnet,java,html)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,dotnet,java,angular)](https://skillicons.dev)<br><br>
 
 <i>Piada aleatória de desenvolvedores!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
----
 
 <i>Social Media</i><br>
 
