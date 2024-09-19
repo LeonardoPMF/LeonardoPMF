@@ -7,16 +7,21 @@
 - 💞️ **Estou procurando colaborar em:** Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
 - 📫 **Como me encontrar:** Você pode me contatar por e-mail em [leopmfaria@gmail.com](mailto:leopmfaria@gmail.com).
 <br>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoPMF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 <br><br>
 ## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,dotnet,java,angular)](https://skillicons.dev)<br><br>
 
-<i>Piada aleatória de desenvolvedores!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 <i>Social Media</i><br>
