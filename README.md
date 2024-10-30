@@ -7,22 +7,23 @@
 
 
 <div align="left">
-<h1>About Me:</h1>
-    <h3>Currently on High School at Etec Prof. Horacio</h3>
+<h1>「 ✦ Ａｂｏｕｔ Ｍｅ ✦ 」</h1>
+    <h3> 💻 🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇴​​🇳​ ​🇭​​🇮​​🇬​​🇭​ ​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​ ​🇦​​🇹​ ​🇪​​🇹​​🇪​​🇨​ ​🇵​​🇷​​🇴​​🇫​. ​🇭​​🇴​​🇷​​🇦​​🇨​​🇮​​🇴​ </h3>
     <ul>
-            <strong>🌐 Main Experiences:</strong>
+            <strong>🌐 Main Experiences:</strong> <br>
             <ul>
-                <li> Back-end</li>
-                <li> Competitive Programming</li>
-                <li> Mobile Applications</li>
-                <li> Artificial Intelligence & Machine Learning</li>
+                <li> Ｂａｃ　ᴋ　－　ｅ　ɴ　ᴅ </li>
+                <li> Ｃｏｍｐｅｔｉｔｉｖｅ Ｐｒｏｇｒａｍｍｉｎｇ </li>
+                <li> Ｍｏｂｉｌｅ Ａｐｐｌｉｃａｔｉｏｎｓ </li>
+                <li> Ａｒｔｉｆｉｃｉａｌ Ｉｎｔｅｌｌｉｇｅｎｃｅ ＆ Ｍａｃｈｉｎｅ Ｌｅａｒｎｉｎｇ </li>
+                <li> Ｆｒｏｎｔ－ｅｎｄ </li>
             </ul>
     </ul>
 </div>
     
 <br>
 <div align="left">  
-    <h3>Currently Learning and Diving Into...</h3>
+    <h3> ​⭒₊ ⊹🌕₊ ⊹ 🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇦​​🇳​​🇩​ ​🇩​​🇮​​🇻​​🇮​​🇳​​🇬​ ​🇮​​🇳​​🇹​​🇴​... </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>       
