@@ -10,7 +10,6 @@
 <h1>About Me:</h1>
     <h3>Currently on High School at Etec Prof. Horacio</h3>
     <ul>
-        <li>
             <strong>🌐 Main Experiences:</strong>
             <ul>
                 <li> Back-end</li>
@@ -18,7 +17,6 @@
                 <li> Mobile Applications</li>
                 <li> Artificial Intelligence & Machine Learning</li>
             </ul>
-        </li>
     </ul>
 </div>
     
