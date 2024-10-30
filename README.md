@@ -8,10 +8,10 @@
 
 <div align="left">
 <h1>「 ✦ Ａｂｏｕｔ Ｍｅ ✦ 」</h1>
-    <h3> 💻 🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇴​​🇳​ ​🇭​​🇮​​🇬​​🇭​ ​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​ ​🇦​​🇹​ ​🇪​​🇹​​🇪​​🇨​ ​🇵​​🇷​​🇴​​🇫​. ​🇭​​🇴​​🇷​​🇦​​🇨​​🇮​​🇴​ </h3>
+    <h3> 🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇴​​🇳​ ​🇭​​🇮​​🇬​​🇭​ ​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​ ​🇦​​🇹​ ​🇪​​🇹​​🇪​​🇨​ ​🇵​​🇷​​🇴​​🇫​. ​🇭​​🇴​​🇷​​🇦​​🇨​​🇮​​🇴​ </h3>
     <ul>
-            <strong>🌐 Main Experiences:</strong> <br>
-            <ul>
+            <strong>🌐 Main Experiences</strong>
+            <ul> <br>
                 <li> Ｂａｃ　ᴋ　－　ｅ　ɴ　ᴅ </li>
                 <li> Ｃｏｍｐｅｔｉｔｉｖｅ Ｐｒｏｇｒａｍｍｉｎｇ </li>
                 <li> Ｍｏｂｉｌｅ Ａｐｐｌｉｃａｔｉｏｎｓ </li>
@@ -23,7 +23,7 @@
     
 <br>
 <div align="left">  
-    <h3> ​⭒₊ ⊹🌕₊ ⊹ 🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇦​​🇳​​🇩​ ​🇩​​🇮​​🇻​​🇮​​🇳​​🇬​ ​🇮​​🇳​​🇹​​🇴​... </h3>
+    <h3> 🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇦​​🇳​​🇩​ ​🇩​​🇮​​🇻​​🇮​​🇳​​🇬​ ​🇮​​🇳​​🇹​​🇴​... </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>       
